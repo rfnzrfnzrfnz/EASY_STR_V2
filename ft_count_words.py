@@ -1,4 +1,3 @@
-  
 def ft_len(str):
     a = 0
     for i in str:
@@ -22,4 +21,4 @@ def ft_count_words(str):
                 k = k + 1
             i = i + 1
         return k + 1
-    
+ 
