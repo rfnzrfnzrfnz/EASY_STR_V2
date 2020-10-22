@@ -33,7 +33,7 @@ def ft_find_second_char(d, b):
             if x == 2:
                 return i
 
-
+            
 def ft_slice_str(b, st, sp):
     r = ''
     for i in range(st, sp):
