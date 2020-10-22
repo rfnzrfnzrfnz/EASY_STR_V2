@@ -31,4 +31,3 @@ def ft_find_second_char(char, a):
         return z, y
     else:
         return -2
-
